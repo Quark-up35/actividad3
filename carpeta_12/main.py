@@ -3,4 +3,4 @@
 def multiplicar(a, b):
     return a * b
 
-print(multiplicar(, 5))
+print(multiplicar(10, 5))
